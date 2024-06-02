@@ -55,6 +55,5 @@ Projects: Additionally, ongoing projects from these categories are showcased wit
 Travel, Read, Plan and teach. these categories have thier various functions that they perform.
   The app also shows some ongoing projects that are currently active from the categories mentioned above.
   
-![Screenshot 2024-06-01 150615]
->>>>>>> 050b3b020f474b7f9b936bacd87854ce4818e5a0
+
 

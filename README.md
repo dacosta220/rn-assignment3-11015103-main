@@ -54,6 +54,6 @@ Projects: Additionally, ongoing projects from these categories are showcased wit
   The app also has eight categories which are Exercise, Study, Cook, Code, 
 Travel, Read, Plan and teach. these categories have thier various functions that they perform.
   The app also shows some ongoing projects that are currently active from the categories mentioned above.
-  
+
 
 
